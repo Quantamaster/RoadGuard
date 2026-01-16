@@ -203,7 +203,7 @@ RoadGuard includes a **rich, interactive HTML-based insights page** that present
 
 ### 🔹 View Insights
 🔗 **Interactive Insights Page:**  
-roadguard-insights.html
+https://quantamaster.github.io/Akhilesh-Y-Ragate.github.io/Projects/roadguard-insights.html
 ---
 
 <div align="center">
