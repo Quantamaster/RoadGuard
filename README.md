@@ -28,6 +28,7 @@ It supports **geo-tagged detection**, **mask-based visualization**, and is desig
 * [Results & Outputs](#-results--outputs)
 * [Applications](#-applications)
 * [Future Improvements](#-future-improvements)
+* [Project Insights (Interactive HTML)](#-project-insights-interactive-html)
 * [Run and Deploy your AI Studio App](#-run-and-deploy-your-ai-studio-app)
 
 
@@ -186,6 +187,23 @@ python main.py
 * Edge deployment (mobile devices)
 * Multi-class road defect detection
 
+---
+## 📊 Project Insights (Interactive HTML)
+
+RoadGuard includes a **rich, interactive HTML-based insights page** that presents the project as a
+**portfolio-grade, business-ready AI system**.
+
+### 🔹 What’s Inside the Insights Page
+- Executive-style project overview
+- Key performance metrics (FPS, confidence, cost reduction)
+- Feature breakdown with visual hierarchy
+- System architecture & technical highlights
+- Business impact and real-world applications
+- Future roadmap and scalability vision
+
+### 🔹 View Insights
+🔗 **Interactive Insights Page:**  
+https://quantamaster.github.io/RoadGuard/roadguard-insights.html
 ---
 
 <div align="center">
